@@ -1,0 +1,15 @@
+c:\users\owner\Desktop\KinectCursor\KinectCursor\bin\Debug\KinectCursor.exe.config
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.csprojResolveAssemblyReference.cache
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\MainWindow.baml
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\MainWindow.g.cs
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\App.g.cs
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor_MarkupCompile.cache
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.g.resources
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.Properties.Resources.resources
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.csproj.GenerateResource.Cache
+c:\users\owner\Desktop\KinectCursor\KinectCursor\bin\Debug\KinectCursor.exe
+c:\users\owner\Desktop\KinectCursor\KinectCursor\bin\Debug\KinectCursor.pdb
+c:\users\owner\Desktop\KinectCursor\KinectCursor\bin\Debug\Microsoft.Kinect.dll
+c:\users\owner\Desktop\KinectCursor\KinectCursor\bin\Debug\Microsoft.Kinect.xml
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.exe
+c:\users\owner\Desktop\KinectCursor\KinectCursor\obj\Debug\KinectCursor.pdb

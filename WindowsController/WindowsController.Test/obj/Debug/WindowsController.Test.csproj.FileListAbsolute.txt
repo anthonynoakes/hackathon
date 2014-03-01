@@ -1,0 +1,8 @@
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\bin\Debug\WindowsController.Test.exe.config
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\bin\Debug\WindowsController.Test.exe
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\bin\Debug\WindowsController.Test.pdb
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\bin\Debug\WindowsController.dll
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\bin\Debug\WindowsController.pdb
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\obj\Debug\WindowsController.Test.csprojResolveAssemblyReference.cache
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\obj\Debug\WindowsController.Test.exe
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController.Test\obj\Debug\WindowsController.Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController\obj\Debug\WindowsController.csprojResolveAssemblyReference.cache
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController\bin\Debug\WindowsController.dll
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController\bin\Debug\WindowsController.pdb
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController\obj\Debug\WindowsController.dll
+C:\Users\kylee_000\Documents\CptS422\WindowsController\WindowsController\obj\Debug\WindowsController.pdb
